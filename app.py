@@ -1,6 +1,6 @@
 #changed addition
-def addition(a,b,c):
-    return a+b+c
+def addition(a,b,c,d):
+    return a+b+c+d
 
 def subtraction(a,b):
     return a-b
